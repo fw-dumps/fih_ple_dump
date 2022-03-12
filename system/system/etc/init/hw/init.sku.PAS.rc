@@ -1,0 +1,12 @@
+on fs
+    setprop ro.product.model TA-1033
+    setprop ro.product.name TA-1033_00A0
+    setprop persist.multisim.config default
+    setprop ro.product.vendor.model TA-1033
+    setprop ro.product.model.display TA-1033
+    setprop ro.product.vendor.name TA-1033_00A0
+    setprop persist.radio.multisim.config default
+    setprop ro.hw.cert_info.path "/elabel/eLabel/TA-1033/worldwide_sku_fake.png"
+on fs
+	setprop ro.build.fingerprint Nokia/TA-1033_00A0/PLE:9/PKQ1.181105.001/00A0_6_19B:user/release-keys
+	setprop ro.build.description "TA-1033_00A0-user 9 PKQ1.181105.001 00A0_6_19B release-keys"
