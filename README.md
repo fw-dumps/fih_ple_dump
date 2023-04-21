@@ -1,0 +1,19 @@
+## TA-1021_00WW-user 9 PKQ1.181105.001 00WW_6_19F release-keys
+- Manufacturer: fih
+- Platform: 
+- Codename: PLE
+- Brand: FIH
+- Flavor: D1C_00WW_FIH-user
+- Release Version: 9
+- Kernel Version: 3.18.120
+- Id: PKQ1.181105.001
+- Incremental: 00WW_6_19F
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Nokia/TA-1021_00WW/PLE:9/PKQ1.181105.001/00WW_6_19F:user/release-keys
+- OTA version: 
+- Branch: TA-1021_00WW-user-9-PKQ1.181105.001-00WW_6_19F-release-keys
+- Repo: fih_ple_dump
